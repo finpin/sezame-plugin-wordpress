@@ -1,0 +1,1 @@
+# sezame-plugin-wordpress
