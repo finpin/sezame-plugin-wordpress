@@ -1,0 +1,296 @@
+# Copyright (C) 2015 Sezame
+# This file is distributed under the same license as the Sezame package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Sezame 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/sezame\n"
+"POT-Creation-Date: 2015-10-08 20:49:11+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/Sezame/Admin/Settings.php:35
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: includes/Sezame/Admin/Settings.php:42
+msgid "Expert mode"
+msgstr "Expertenmodus"
+
+#: includes/Sezame/Admin/Settings.php:50
+msgid "Enabled"
+msgstr "Aktiv"
+
+#: includes/Sezame/Admin/Settings.php:58
+msgid "Timeout"
+msgstr "Timeout"
+
+#: includes/Sezame/Admin/Settings.php:66
+msgid "Fraud protection"
+msgstr "Betrugssicherung"
+
+#: includes/Sezame/Admin/Settings.php:84
+#: includes/Sezame/Admin/Settings.php:144
+msgid "Step 1"
+msgstr "Schritt 1"
+
+#: includes/Sezame/Admin/Settings.php:91
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: includes/Sezame/Admin/Settings.php:109
+#: includes/Sezame/Admin/Settings.php:168
+msgid "Step 2"
+msgstr "Schritt 2"
+
+#: includes/Sezame/Admin/Settings.php:125
+msgid "Cancel service"
+msgstr "Dienst aufheben"
+
+#: includes/Sezame/Admin/Settings.php:151
+msgid "Client code"
+msgstr "Client code"
+
+#: includes/Sezame/Admin/Settings.php:159
+msgid "Shared secret"
+msgstr "Shared secret"
+
+#: includes/Sezame/Admin/Settings.php:175
+msgid "CSR"
+msgstr "CSR"
+
+#: includes/Sezame/Admin/Settings.php:183
+#: includes/Sezame/Admin/Settings.php:199
+msgid "Private key"
+msgstr "Privater Schlüssel"
+
+#: includes/Sezame/Admin/Settings.php:191
+msgid "Key password"
+msgstr "Schlüsselpasswort"
+
+#: includes/Sezame/Admin/Settings.php:216
+msgid "Step 3"
+msgstr "Schritt 3"
+
+#: includes/Sezame/Admin/Settings.php:223
+msgid "Certificate"
+msgstr "Zertifikat"
+
+#: includes/Sezame/Admin/Settings.php:237
+msgid "Sezame Settings"
+msgstr "Sezame Einstellungen"
+
+#: includes/Sezame/Admin/Settings.php:252
+msgid "Setup Status: "
+msgstr "Einrichtungsstatus: "
+
+#: includes/Sezame/Admin/Settings.php:254
+msgid "Sezame is functional"
+msgstr "Sezame ist funktionsbereit"
+
+#: includes/Sezame/Admin/Settings.php:261
+msgid ""
+"Get the Sezame app via your favorite appstore and register with sezame. "
+"Enter your recovery E-Mail address below and press the register button."
+msgstr ""
+"Installieren Sie die Sezame App über den entsprechenden Appstore. "
+"Geben Sie die recovery E-Mail Adresse ein und drücken Sie den registrieren Button."
+
+#: includes/Sezame/Admin/Settings.php:265
+msgid ""
+"After registering finally sign up with Sezame, by pressing the Sign button, "
+"after this step Sezame is functional:"
+msgstr ""
+"Nach der Registrierung betätigen Sie bitte den Signieren Button um das Zertifikat zu erhalten, "
+"nach diesem Schritt ist Sezame funktionsbereit:"
+
+#: includes/Sezame/Admin/Settings.php:269
+msgid ""
+"Get the Shared secret and Client code using the sezame support channels, or "
+"use existing ones."
+msgstr ""
+"Fordern Sie das Shared Secret und den Client Code über den Sezame Support an, oder "
+"verwenden Sie existierende Daten."
+
+#: includes/Sezame/Admin/Settings.php:273
+msgid "Generate the CSR and private Key or paste existing values."
+msgstr "Erzeugen Sie den CSR und den privaten Schlüssel oder fügen sie bestehende Werte ein."
+
+#: includes/Sezame/Admin/Settings.php:277
+msgid ""
+"Get the certificate by contacting Sezame support channels, or paste an "
+"existing certificate."
+msgstr ""
+"Fordern Sie das Zertifikat über den Sezame Support an oder verwenden Sie ein "
+"bestehendes Zerifikat."
+
+#: includes/Sezame/Admin/Settings.php:281
+msgid "Cancel Sezame, this will disable your registration:"
+msgstr "Sezame deaktivieren, diese Funktion hebt die Registrierung auf:"
+
+#: includes/Sezame/Admin/Settings.php:296
+msgid ""
+"Set up Szeame using existing credentials, or get the credentials from the "
+"Sezame support channels, without the need of installing the Sezame app."
+msgstr ""
+"Sezame mit bestehenden Zugangsdaten einrichten, oder über den Sezame Support "
+"angeforderte Daten einfügen, ohne die App installieren zu müssen."
+
+#: includes/Sezame/Admin/Settings.php:304
+msgid "Authentication timeout in seconds."
+msgstr "Authentifizierungs Timeout in Sekunden."
+
+#: includes/Sezame/Admin/Settings.php:312
+msgid ""
+"Enable fraud protection, users get a notification about password logins."
+msgstr ""
+"Betrugssicherung aktivieren, bei Anmeldungen mit einem Passwort erhalten die Benutzer eine Benachrichtigung."
+
+#: includes/Sezame/Admin/Settings.php:320
+msgid "Recovery E-Mail entered on the sezame app, needed for auto activation."
+msgstr "Recovery E-Mail, welche bei der Einrichtung der Sezame App angegeben wurde, für die autom. Einrichtung notwendig."
+
+#: includes/Sezame/Admin/Settings.php:326
+msgid ""
+"After pressing this button, you will get a notification on your Sezame app, "
+"please acknowledge this request."
+msgstr ""
+"Nach dem Betätigen dieses Button erhalten Sie eine Benachrichitung über die Sezame App, "
+"bitte bestätigen Sie diese."
+
+#: includes/Sezame/Admin/Settings.php:331
+msgid "Sign"
+msgstr "Signieren"
+
+#: includes/Sezame/Admin/Settings.php:336
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: includes/Sezame/Admin/Settings.php:340
+msgid "Make CSR"
+msgstr "CSR erzeugen"
+
+#: includes/Sezame/Admin/Settings.php:348
+msgid "The Client code for uniquely identifying your blog."
+msgstr "Der Client Code für die eindeutige Identifizierung Ihres Blog"
+
+#: includes/Sezame/Admin/Settings.php:356
+msgid "The Shared secret."
+msgstr "Das Shared Secret."
+
+#: includes/Sezame/Admin/Settings.php:364
+msgid "The password for protecting your private key."
+msgstr "Das Passwort für die Absicherung Ihres privaten Schlüssels."
+
+#: includes/Sezame/Admin/Settings.php:372
+msgid "The CSR."
+msgstr "Der CSR."
+
+#: includes/Sezame/Admin/Settings.php:380
+msgid "Your private key."
+msgstr "Ihr privater Schlüssel."
+
+#: includes/Sezame/Admin/Settings.php:388
+msgid "The certificate."
+msgstr "Das Zertifikat."
+
+#: includes/Sezame/Admin/Settings.php:403
+msgid "E-Mail is required"
+msgstr "E-Mail Adresse ist erforderlich"
+
+#: includes/Sezame/Admin/Settings.php:409
+msgid "E-Mail address is not valid"
+msgstr "E-Mail Adresse ist ungültig"
+
+#: includes/Sezame/Admin/Settings.php:425
+msgid "E-Mail address not found."
+msgstr "E-Mail Adresse nicht gefunden."
+
+#: includes/Sezame/Admin/Settings.php:444
+#: includes/Sezame/Admin/Settings.php:476
+msgid "Please register first"
+msgstr "Bitte registrieren Sie zuerst"
+
+#: includes/Sezame/User/Login.php:58
+msgid "Username is required"
+msgstr "Benutzername ist erforderlich"
+
+#: includes/Sezame/User/Login.php:72
+msgid "User not found"
+msgstr "Benutzer nicht gefunden"
+
+#: includes/Sezame/User/Login.php:81 includes/Sezame/User/Login.php:101
+#: includes/Sezame/User/Login.php:188
+msgid "Invalid login."
+msgstr "Ungültige Zugangsdaten."
+
+#: includes/Sezame/User/Login.php:180
+msgid "The request has not been authorized in time."
+msgstr "Die Anfrage wurde nicht rechtzeitig beantwortet."
+
+#: includes/Sezame/User/Login.php:184
+msgid "Login denied."
+msgstr "Zugang wurde abgewiesen."
+
+#: includes/Sezame/User/Login.php:210
+msgid "Please open the sezame app and authorize the authentication request!"
+msgstr "Bitte öffnen Sie die Sezame App und authorisieren Sie die Anfrage!"
+
+#. #-#-#-#-#  sezame.pot (Sezame 1.0.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#. #-#-#-#-#  sezame.pot (Sezame 1.0.0)  #-#-#-#-#
+#. Author of the plugin/theme
+#: includes/Sezame/User/Profile.php:22
+msgid "Sezame"
+msgstr "Sezame"
+
+#: includes/Sezame/User/Profile.php:26
+msgid "Pairing"
+msgstr "Pairing"
+
+#: includes/Sezame/User/Profile.php:30
+msgid "Remove pairing"
+msgstr "Pairing entfernen"
+
+#. Description of the plugin/theme
+msgid ""
+"sezame is  a secure and simple multi-factor authentication solution. You "
+"only need the username and your fingerprint on your smartphone to log into "
+"any sezame-enabled site."
+msgstr ""
+"sezame is  a secure and simple multi-factor authentication solution. You "
+"only need the username and your fingerprint on your smartphone to log into "
+"any sezame-enabled site."
+
+#. Author URI of the plugin/theme
+msgid "https://seza.me/"
+msgstr "https://seza.me/de/"
+
+msgid ""
+"You will get a notification on your Sezame App, if password login was used."
+msgstr ""
+"Sie erhalten eine Nachricht, falls ein passwort Login festgestellt wurde."
+
+msgid "Please set Client code and Shared secret"
+msgstr "Bitte setzen Sie den Client code und das Shared secret"
+
+msgid "Client code is required"
+msgstr "Der Client code muss angegeben werden"
+
+msgid "Shared secret is required"
+msgstr "Das Shared secret muss angegeben werden"
+
+msgid "Please set the CSR"
+msgstr "Bitte setzen Sie den CSR"
+
+msgid "completed"
+msgstr "vollständig"
+
+msgid "new"
+msgstr "unvollständig"
+
+msgid "Open the Sezame App and use the pairing function to take a shot of this QR code:"
+msgstr "Öffnen Sie die Sezame App und verwenden Sie die pairing Funktion, um diesen QR Code zu fotografieren:"
